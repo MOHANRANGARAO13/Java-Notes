@@ -13,7 +13,7 @@ public class EnumIfSwitch
     switch(s)
     {
         case Running:
-            System.out.println("All Good");
+            System.out.println("All Good, Done for the day");
             break;
 
         case Failed:
