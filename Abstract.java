@@ -18,7 +18,7 @@ class Maruti extends Car
     }
     public void drive()
     {
-        System.out.println("Driving....");
+        System.out.println("Driving..");
     }   
 }
 
