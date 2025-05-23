@@ -14,7 +14,7 @@ class Maruti extends Car
 {  
     public void fly()
     {
-        System.out.println("Flying.");
+        System.out.println("Flyig.");
     }
     public void drive()
     {
