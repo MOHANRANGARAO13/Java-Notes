@@ -13,13 +13,10 @@ public class EnumIfSwitch
     switch(s)
     {
         case Running:
-            System.out.println("All Good, Done for the day");
+            System.out.println("");
             break;
 
-        case Failed:
-            System.out.println("Try Again");
-            break;
-
+    
         case Pending:
             System.out.println("Please Wait");
             break;
